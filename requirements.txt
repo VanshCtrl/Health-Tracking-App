@@ -1,0 +1,3 @@
+# Standard library dependencies only to ensure ultra-low latency execution
+datetime
+json
